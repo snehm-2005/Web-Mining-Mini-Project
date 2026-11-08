@@ -78,5 +78,3 @@ The project demonstrates that web scraping and basic text mining techniques can 
 
 6. Output: The final output consists of the extracted news dataset, keyword frequency analysis and graphical visualizations that provide insights into the most commonly discussed topics in the collected news headlines.
 Conclusion: The News Website Scraper and Trending Topic Analyzer provides a simple demonstration of Web Mining using Python. It combines web scraping, data extraction, text preprocessing, keyword frequency analysis and data visualization to extract meaningful information from online news websites.
-
-Github Link: 
